@@ -1,0 +1,1 @@
+/opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:export PATH="$PATH:./node_modules/.bin:/Users/mariekiecoetzee/.dotnet/tools":/usr/local/share/dotnet:~/.dotnet/tools:/Library/Apple/usr/bin:/Library/Frameworks/Mono.framework/Versions/Current/Commands:/Users/riekiecoetzee/.dotnet/tools

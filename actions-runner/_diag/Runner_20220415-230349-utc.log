@@ -1,0 +1,226 @@
+[2022-04-15 23:03:49Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2022-04-15 23:03:49Z INFO HostContext] Well known directory 'Bin': '/Users/riekiecoetzee/Source/learn/hello-github-actions/actions-runner/bin'
+[2022-04-15 23:03:49Z INFO HostContext] Well known directory 'Root': '/Users/riekiecoetzee/Source/learn/hello-github-actions/actions-runner'
+[2022-04-15 23:03:49Z INFO HostContext] Well known config file 'Credentials': '/Users/riekiecoetzee/Source/learn/hello-github-actions/actions-runner/.credentials'
+[2022-04-15 23:03:49Z INFO HostContext] Well known directory 'Bin': '/Users/riekiecoetzee/Source/learn/hello-github-actions/actions-runner/bin'
+[2022-04-15 23:03:49Z INFO HostContext] Well known directory 'Root': '/Users/riekiecoetzee/Source/learn/hello-github-actions/actions-runner'
+[2022-04-15 23:03:49Z INFO HostContext] Well known config file 'Runner': '/Users/riekiecoetzee/Source/learn/hello-github-actions/actions-runner/.runner'
+[2022-04-15 23:03:49Z INFO Listener] Runner is built for OSX (X64) - osx-x64.
+[2022-04-15 23:03:49Z INFO Listener] RuntimeInformation: Darwin 21.4.0 Darwin Kernel Version 21.4.0: Fri Mar 18 00:47:26 PDT 2022; root:xnu-8020.101.4~15/RELEASE_ARM64_T8101.
+[2022-04-15 23:03:49Z INFO Listener] Version: 2.289.2
+[2022-04-15 23:03:49Z INFO Listener] Commit: 529e404063bef464e93475d93affe93f97080dd1
+[2022-04-15 23:03:49Z INFO Listener] Culture: en-AU
+[2022-04-15 23:03:49Z INFO Listener] UI Culture: en-AU
+[2022-04-15 23:03:49Z INFO HostContext] Well known directory 'Bin': '/Users/riekiecoetzee/Source/learn/hello-github-actions/actions-runner/bin'
+[2022-04-15 23:03:49Z INFO HostContext] Well known directory 'Root': '/Users/riekiecoetzee/Source/learn/hello-github-actions/actions-runner'
+[2022-04-15 23:03:49Z INFO Listener] Validating directory permissions for: '/Users/riekiecoetzee/Source/learn/hello-github-actions/actions-runner'
+[2022-04-15 23:03:50Z INFO CommandLineParser] Parse
+[2022-04-15 23:03:50Z INFO CommandLineParser] Parsing 5 args
+[2022-04-15 23:03:50Z INFO CommandLineParser] parsing argument
+[2022-04-15 23:03:50Z INFO CommandLineParser] HasArgs: False
+[2022-04-15 23:03:50Z INFO CommandLineParser] Adding Command: configure
+[2022-04-15 23:03:50Z INFO CommandLineParser] parsing argument
+[2022-04-15 23:03:50Z INFO CommandLineParser] HasArgs: True
+[2022-04-15 23:03:50Z INFO CommandLineParser] arg: url
+[2022-04-15 23:03:50Z INFO CommandLineParser] parsing argument
+[2022-04-15 23:03:50Z INFO CommandLineParser] HasArgs: True
+[2022-04-15 23:03:50Z INFO CommandLineParser] Adding option 'url': 'https://github.com/MariekieCoetzee/hello-github-actions'
+[2022-04-15 23:03:50Z INFO CommandLineParser] parsing argument
+[2022-04-15 23:03:50Z INFO CommandLineParser] HasArgs: True
+[2022-04-15 23:03:50Z INFO CommandLineParser] arg: token
+[2022-04-15 23:03:50Z INFO CommandLineParser] parsing argument
+[2022-04-15 23:03:50Z INFO CommandLineParser] HasArgs: True
+[2022-04-15 23:03:50Z INFO CommandLineParser] Adding option 'token': '***'
+[2022-04-15 23:03:50Z INFO Listener] Arguments parsed
+[2022-04-15 23:03:50Z INFO Runner] ExecuteCommand
+[2022-04-15 23:03:50Z INFO ConfigurationStore] currentAssemblyLocation: /Users/riekiecoetzee/Source/learn/hello-github-actions/actions-runner/bin/Runner.Listener.dll
+[2022-04-15 23:03:50Z INFO HostContext] Well known directory 'Bin': '/Users/riekiecoetzee/Source/learn/hello-github-actions/actions-runner/bin'
+[2022-04-15 23:03:50Z INFO ConfigurationStore] binPath: /Users/riekiecoetzee/Source/learn/hello-github-actions/actions-runner/bin
+[2022-04-15 23:03:50Z INFO HostContext] Well known directory 'Bin': '/Users/riekiecoetzee/Source/learn/hello-github-actions/actions-runner/bin'
+[2022-04-15 23:03:50Z INFO HostContext] Well known directory 'Root': '/Users/riekiecoetzee/Source/learn/hello-github-actions/actions-runner'
+[2022-04-15 23:03:50Z INFO ConfigurationStore] RootFolder: /Users/riekiecoetzee/Source/learn/hello-github-actions/actions-runner
+[2022-04-15 23:03:50Z INFO HostContext] Well known directory 'Bin': '/Users/riekiecoetzee/Source/learn/hello-github-actions/actions-runner/bin'
+[2022-04-15 23:03:50Z INFO HostContext] Well known directory 'Root': '/Users/riekiecoetzee/Source/learn/hello-github-actions/actions-runner'
+[2022-04-15 23:03:50Z INFO HostContext] Well known config file 'Runner': '/Users/riekiecoetzee/Source/learn/hello-github-actions/actions-runner/.runner'
+[2022-04-15 23:03:50Z INFO ConfigurationStore] ConfigFilePath: /Users/riekiecoetzee/Source/learn/hello-github-actions/actions-runner/.runner
+[2022-04-15 23:03:50Z INFO HostContext] Well known directory 'Bin': '/Users/riekiecoetzee/Source/learn/hello-github-actions/actions-runner/bin'
+[2022-04-15 23:03:50Z INFO HostContext] Well known directory 'Root': '/Users/riekiecoetzee/Source/learn/hello-github-actions/actions-runner'
+[2022-04-15 23:03:50Z INFO HostContext] Well known config file 'Credentials': '/Users/riekiecoetzee/Source/learn/hello-github-actions/actions-runner/.credentials'
+[2022-04-15 23:03:50Z INFO ConfigurationStore] CredFilePath: /Users/riekiecoetzee/Source/learn/hello-github-actions/actions-runner/.credentials
+[2022-04-15 23:03:50Z INFO HostContext] Well known directory 'Bin': '/Users/riekiecoetzee/Source/learn/hello-github-actions/actions-runner/bin'
+[2022-04-15 23:03:50Z INFO HostContext] Well known directory 'Root': '/Users/riekiecoetzee/Source/learn/hello-github-actions/actions-runner'
+[2022-04-15 23:03:50Z INFO HostContext] Well known config file 'MigratedCredentials': '/Users/riekiecoetzee/Source/learn/hello-github-actions/actions-runner/.credentials_migrated'
+[2022-04-15 23:03:50Z INFO ConfigurationStore] MigratedCredFilePath: /Users/riekiecoetzee/Source/learn/hello-github-actions/actions-runner/.credentials_migrated
+[2022-04-15 23:03:50Z INFO HostContext] Well known directory 'Bin': '/Users/riekiecoetzee/Source/learn/hello-github-actions/actions-runner/bin'
+[2022-04-15 23:03:50Z INFO HostContext] Well known directory 'Root': '/Users/riekiecoetzee/Source/learn/hello-github-actions/actions-runner'
+[2022-04-15 23:03:50Z INFO HostContext] Well known config file 'Service': '/Users/riekiecoetzee/Source/learn/hello-github-actions/actions-runner/.service'
+[2022-04-15 23:03:50Z INFO ConfigurationStore] ServiceConfigFilePath: /Users/riekiecoetzee/Source/learn/hello-github-actions/actions-runner/.service
+[2022-04-15 23:03:50Z INFO CommandSettings] Flag 'help': 'False'
+[2022-04-15 23:03:50Z INFO CommandSettings] Flag 'version': 'False'
+[2022-04-15 23:03:50Z INFO CommandSettings] Flag 'commit': 'False'
+[2022-04-15 23:03:50Z INFO CommandSettings] Flag 'check': 'False'
+[2022-04-15 23:03:50Z INFO CommandSettings] Command 'configure': 'True'
+[2022-04-15 23:03:50Z INFO Terminal] WRITE LINE: 
+[2022-04-15 23:03:50Z INFO Terminal] WRITE LINE: --------------------------------------------------------------------------------
+[2022-04-15 23:03:50Z INFO Terminal] WRITE LINE: |        ____ _ _   _   _       _          _        _   _                      |
+[2022-04-15 23:03:50Z INFO Terminal] WRITE LINE: |       / ___(_) |_| | | |_   _| |__      / \   ___| |_(_) ___  _ __  ___      |
+[2022-04-15 23:03:50Z INFO Terminal] WRITE LINE: |      | |  _| | __| |_| | | | | '_ \    / _ \ / __| __| |/ _ \| '_ \/ __|     |
+[2022-04-15 23:03:50Z INFO Terminal] WRITE LINE: |      | |_| | | |_|  _  | |_| | |_) |  / ___ \ (__| |_| | (_) | | | \__ \     |
+[2022-04-15 23:03:50Z INFO Terminal] WRITE LINE: |       \____|_|\__|_| |_|\__,_|_.__/  /_/   \_\___|\__|_|\___/|_| |_|___/     |
+[2022-04-15 23:03:50Z INFO Terminal] WRITE LINE: |                                                                              |
+[2022-04-15 23:03:50Z INFO Terminal] WRITE: |                       
+[2022-04-15 23:03:50Z INFO Terminal] WRITE: Self-hosted runner registration
+[2022-04-15 23:03:50Z INFO Terminal] WRITE LINE:                         |
+[2022-04-15 23:03:50Z INFO Terminal] WRITE LINE: |                                                                              |
+[2022-04-15 23:03:50Z INFO Terminal] WRITE LINE: --------------------------------------------------------------------------------
+[2022-04-15 23:03:50Z INFO ConfigurationManager] ConfigureAsync
+[2022-04-15 23:03:50Z INFO ConfigurationStore] IsConfigured()
+[2022-04-15 23:03:50Z INFO ConfigurationStore] IsConfigured: False
+[2022-04-15 23:03:50Z INFO ConfigurationManager] Is configured: False
+[2022-04-15 23:03:50Z INFO CommandSettings] Arg 'url': 'https://github.com/MariekieCoetzee/hello-github-actions'
+[2022-04-15 23:03:50Z INFO CommandSettings] Remove url from Arg dictionary.
+[2022-04-15 23:03:50Z INFO CommandSettings] Arg 'token': '***'
+[2022-04-15 23:03:50Z INFO CommandSettings] Remove token from Arg dictionary.
+[2022-04-15 23:03:53Z INFO ConfigurationManager] Http response code: OK from 'POST https://api.github.com/actions/runner-registration'
+[2022-04-15 23:03:53Z INFO ConfigurationManager] cred retrieved via GitHub auth
+[2022-04-15 23:03:53Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2022-04-15 23:03:54Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2022-04-15 23:03:54Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2022-04-15 23:03:54Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2022-04-15 23:03:54Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2022-04-15 23:03:54Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2022-04-15 23:03:56Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2022-04-15 23:03:56Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2022-04-15 23:03:56Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2022-04-15 23:03:57Z INFO Terminal] WRITE LINE: 
+[2022-04-15 23:03:57Z INFO ConfigurationManager] Test Connection complete.
+[2022-04-15 23:03:57Z INFO HostContext] Well known directory 'Bin': '/Users/riekiecoetzee/Source/learn/hello-github-actions/actions-runner/bin'
+[2022-04-15 23:03:57Z INFO HostContext] Well known directory 'Root': '/Users/riekiecoetzee/Source/learn/hello-github-actions/actions-runner'
+[2022-04-15 23:03:57Z INFO HostContext] Well known config file 'RSACredentials': '/Users/riekiecoetzee/Source/learn/hello-github-actions/actions-runner/.credentials_rsaparams'
+[2022-04-15 23:03:57Z INFO RSAFileKeyManager] Creating new RSA key using 2048-bit key length
+[2022-04-15 23:03:57Z INFO RSAFileKeyManager] Successfully saved RSA key parameters to file /Users/riekiecoetzee/Source/learn/hello-github-actions/actions-runner/.credentials_rsaparams
+[2022-04-15 23:03:57Z INFO RSAFileKeyManager] Which: 'chmod'
+[2022-04-15 23:03:57Z INFO RSAFileKeyManager] Location: '/bin/chmod'
+[2022-04-15 23:03:57Z INFO HostContext] Well known directory 'Bin': '/Users/riekiecoetzee/Source/learn/hello-github-actions/actions-runner/bin'
+[2022-04-15 23:03:57Z INFO HostContext] Well known directory 'Root': '/Users/riekiecoetzee/Source/learn/hello-github-actions/actions-runner'
+[2022-04-15 23:03:57Z INFO ProcessInvokerWrapper] Starting process:
+[2022-04-15 23:03:57Z INFO ProcessInvokerWrapper]   File name: '/bin/chmod'
+[2022-04-15 23:03:57Z INFO ProcessInvokerWrapper]   Arguments: '600 /Users/riekiecoetzee/Source/learn/hello-github-actions/actions-runner/.credentials_rsaparams'
+[2022-04-15 23:03:57Z INFO ProcessInvokerWrapper]   Working directory: '/Users/riekiecoetzee/Source/learn/hello-github-actions/actions-runner'
+[2022-04-15 23:03:57Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2022-04-15 23:03:57Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2022-04-15 23:03:57Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'False'
+[2022-04-15 23:03:57Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2022-04-15 23:03:57Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2022-04-15 23:03:57Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2022-04-15 23:03:57Z INFO ProcessInvokerWrapper]   High priority process: 'False'
+[2022-04-15 23:03:57Z INFO ProcessInvokerWrapper] Process started with process id 84454, waiting for process exit.
+[2022-04-15 23:03:57Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2022-04-15 23:03:57Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2022-04-15 23:03:57Z INFO ProcessInvokerWrapper] Finished process 84454 with exit code 0, and elapsed time 00:00:00.0864689.
+[2022-04-15 23:03:57Z INFO RSAFileKeyManager] Successfully set permissions for RSA key parameters file /Users/riekiecoetzee/Source/learn/hello-github-actions/actions-runner/.credentials_rsaparams
+[2022-04-15 23:03:57Z INFO CommandSettings] Arg 'runnergroup': ''
+[2022-04-15 23:03:57Z INFO CommandSettings] Flag 'unattended': 'False'
+[2022-04-15 23:03:57Z INFO PromptManager] ReadValue
+[2022-04-15 23:03:57Z INFO Terminal] WRITE: Enter the name of the runner group to add this runner to: 
+[2022-04-15 23:03:57Z INFO Terminal] WRITE: [press Enter for Default] 
+[2022-04-15 23:03:57Z INFO Terminal] READ LINE
+[2022-04-15 23:04:04Z INFO Terminal] Read value: ''
+[2022-04-15 23:04:04Z INFO PromptManager] Falling back to the default: 'Default'
+[2022-04-15 23:04:04Z INFO Terminal] WRITE LINE: 
+[2022-04-15 23:04:04Z INFO ConfigurationManager] Found a self-hosted runner group with id 1 and name Default
+[2022-04-15 23:04:04Z INFO CommandSettings] Flag 'disableupdate': 'False'
+[2022-04-15 23:04:04Z INFO CommandSettings] Flag 'ephemeral': 'False'
+[2022-04-15 23:04:04Z INFO CommandSettings] Arg 'name': ''
+[2022-04-15 23:04:04Z INFO CommandSettings] Flag 'unattended': 'False'
+[2022-04-15 23:04:04Z INFO PromptManager] ReadValue
+[2022-04-15 23:04:04Z INFO Terminal] WRITE: Enter the name of runner: 
+[2022-04-15 23:04:04Z INFO Terminal] WRITE: [press Enter for Mariekies-MacBook-Air] 
+[2022-04-15 23:04:04Z INFO Terminal] READ LINE
+[2022-04-15 23:04:09Z INFO Terminal] Read value: ''
+[2022-04-15 23:04:09Z INFO PromptManager] Falling back to the default: 'Mariekies-MacBook-Air'
+[2022-04-15 23:04:09Z INFO Terminal] WRITE LINE: 
+[2022-04-15 23:04:09Z INFO CommandSettings] Arg 'labels': ''
+[2022-04-15 23:04:09Z INFO CommandSettings] Flag 'unattended': 'False'
+[2022-04-15 23:04:09Z INFO PromptManager] ReadValue
+[2022-04-15 23:04:09Z INFO Terminal] WRITE: This runner will have the following labels: 'self-hosted', 'macOS', 'X64' 
+Enter any additional labels (ex. label-1,label-2): 
+[2022-04-15 23:04:09Z INFO Terminal] WRITE: [press Enter to skip] 
+[2022-04-15 23:04:09Z INFO Terminal] READ LINE
+[2022-04-15 23:04:19Z INFO Terminal] Read value: ''
+[2022-04-15 23:04:19Z INFO Terminal] WRITE LINE: 
+[2022-04-15 23:04:19Z INFO CommandSettings] Flag 'disableupdate': 'False'
+[2022-04-15 23:04:19Z INFO CommandSettings] Flag 'disableupdate': 'False'
+[2022-04-15 23:04:19Z INFO CommandSettings] Flag 'ephemeral': 'False'
+[2022-04-15 23:04:19Z INFO ConfigurationStore] Saving OAuth credential @ /Users/riekiecoetzee/Source/learn/hello-github-actions/actions-runner/.credentials
+[2022-04-15 23:04:19Z INFO ConfigurationStore] Credentials Saved.
+[2022-04-15 23:04:19Z INFO ConfigurationStore] HasCredentials()
+[2022-04-15 23:04:19Z INFO ConfigurationStore] stored True
+[2022-04-15 23:04:19Z INFO CredentialManager] GetCredentialProvider
+[2022-04-15 23:04:19Z INFO CredentialManager] Creating type OAuth
+[2022-04-15 23:04:19Z INFO CredentialManager] Creating credential type: OAuth
+[2022-04-15 23:04:19Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/riekiecoetzee/Source/learn/hello-github-actions/actions-runner/.credentials_rsaparams
+[2022-04-15 23:04:20Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2022-04-15 23:04:20Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2022-04-15 23:04:20Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2022-04-15 23:04:20Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2022-04-15 23:04:20Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2022-04-15 23:04:20Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2022-04-15 23:04:21Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2022-04-15 23:04:21Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2022-04-15 23:04:21Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2022-04-15 23:04:21Z WARN GitHubActionsService] Authentication failed with status code 401.
+Transfer-Encoding: chunked
+WWW-Authenticate: Bearer
+Strict-Transport-Security: max-age=2592000
+X-TFS-ProcessId: 7858bb02-7238-45f5-b100-cf192cabd7c9
+ActivityId: 05c3b982-adcd-455c-a560-1007f1380795
+X-TFS-Session: a11f09af-7f9b-479a-9ee3-81a223c8095d
+X-VSS-E2EID: 999d4888-447d-4d43-8cb0-2cbb543e19fd
+X-VSS-SenderDeploymentId: 63be6134-28d1-8c82-e969-91f4e88fcdec
+X-TFS-ServiceError: The+user+%27System%3aPublicAccess%3baaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa%27+is+not+authorized+to+access+this+resource.
+X-VSS-S2STargetService: 0000005A-0000-8888-8000-000000000000/visualstudio.com
+X-Cache: CONFIG_NOCACHE
+X-MSEdge-Ref: Ref A: 2F1EDF24457841D8AB3431A421D7BF26 Ref B: SYD03EDGE1609 Ref C: 2022-04-15T23:04:21Z
+Date: Fri, 15 Apr 2022 23:04:21 GMT
+
+[2022-04-15 23:04:21Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/riekiecoetzee/Source/learn/hello-github-actions/actions-runner/.credentials_rsaparams
+[2022-04-15 23:04:21Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/riekiecoetzee/Source/learn/hello-github-actions/actions-runner/.credentials_rsaparams
+[2022-04-15 23:04:22Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2022-04-15 23:04:22Z INFO CommandSettings] Arg 'work': ''
+[2022-04-15 23:04:22Z INFO CommandSettings] Flag 'unattended': 'False'
+[2022-04-15 23:04:22Z INFO PromptManager] ReadValue
+[2022-04-15 23:04:22Z INFO Terminal] WRITE: Enter name of work folder: 
+[2022-04-15 23:04:22Z INFO Terminal] WRITE: [press Enter for _work] 
+[2022-04-15 23:04:22Z INFO Terminal] READ LINE
+[2022-04-15 23:04:26Z INFO Terminal] Read value: ''
+[2022-04-15 23:04:26Z INFO PromptManager] Falling back to the default: '_work'
+[2022-04-15 23:04:26Z INFO ConfigurationStore] Saving runner settings.
+[2022-04-15 23:04:26Z INFO ConfigurationStore] Settings Saved.
+[2022-04-15 23:04:26Z INFO Terminal] WRITE LINE: 
+[2022-04-15 23:04:26Z INFO Terminal] WRITE LINE: 
+[2022-04-15 23:04:26Z INFO OsxServiceControlManager] Service name 'actions.runner.MariekieCoetzee-hello-github-actions.Mariekies-MacBook-Air' display name 'GitHub Actions Runner (MariekieCoetzee-hello-github-actions.Mariekies-MacBook-Air)' will be used for service configuration.
+[2022-04-15 23:04:26Z INFO HostContext] Well known directory 'Bin': '/Users/riekiecoetzee/Source/learn/hello-github-actions/actions-runner/bin'
+[2022-04-15 23:04:26Z INFO HostContext] Well known directory 'Root': '/Users/riekiecoetzee/Source/learn/hello-github-actions/actions-runner'
+[2022-04-15 23:04:26Z INFO HostContext] Well known directory 'Bin': '/Users/riekiecoetzee/Source/learn/hello-github-actions/actions-runner/bin'
+[2022-04-15 23:04:26Z INFO HostContext] Well known directory 'Bin': '/Users/riekiecoetzee/Source/learn/hello-github-actions/actions-runner/bin'
+[2022-04-15 23:04:26Z INFO HostContext] Well known directory 'Root': '/Users/riekiecoetzee/Source/learn/hello-github-actions/actions-runner'
+[2022-04-15 23:04:26Z INFO UnixUtil] Which: 'chmod'
+[2022-04-15 23:04:26Z INFO UnixUtil] Location: '/bin/chmod'
+[2022-04-15 23:04:26Z INFO UnixUtil] Running /bin/chmod 755 "/Users/riekiecoetzee/Source/learn/hello-github-actions/actions-runner/svc.sh"
+[2022-04-15 23:04:26Z INFO ProcessInvokerWrapper] Starting process:
+[2022-04-15 23:04:26Z INFO ProcessInvokerWrapper]   File name: '/bin/chmod'
+[2022-04-15 23:04:26Z INFO ProcessInvokerWrapper]   Arguments: '755 "/Users/riekiecoetzee/Source/learn/hello-github-actions/actions-runner/svc.sh"'
+[2022-04-15 23:04:26Z INFO ProcessInvokerWrapper]   Working directory: '/Users/riekiecoetzee/Source/learn/hello-github-actions/actions-runner'
+[2022-04-15 23:04:26Z INFO ProcessInvokerWrapper]   Require exit code zero: 'True'
+[2022-04-15 23:04:26Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2022-04-15 23:04:26Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'False'
+[2022-04-15 23:04:26Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2022-04-15 23:04:26Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2022-04-15 23:04:26Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2022-04-15 23:04:26Z INFO ProcessInvokerWrapper]   High priority process: 'False'
+[2022-04-15 23:04:26Z INFO ProcessInvokerWrapper] Process started with process id 84459, waiting for process exit.
+[2022-04-15 23:04:26Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2022-04-15 23:04:26Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2022-04-15 23:04:26Z INFO ProcessInvokerWrapper] Finished process 84459 with exit code 0, and elapsed time 00:00:00.0392661.
+[2022-04-15 23:04:26Z INFO Listener] Runner execution has finished with return code 0

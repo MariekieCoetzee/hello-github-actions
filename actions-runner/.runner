@@ -1,0 +1,9 @@
+﻿{
+  "agentId": 21,
+  "agentName": "Mariekies-MacBook-Air",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelines.actions.githubusercontent.com/sJBoQG0K2A2pC0QdSPxLpec8aM3pkTO3eAh7GoWVjDvDInjs5a",
+  "gitHubUrl": "https://github.com/MariekieCoetzee/hello-github-actions",
+  "workFolder": "_work"
+}
